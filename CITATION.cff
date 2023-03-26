@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors: 
+- family-names: "Parra"
+  given-names: "Iñigo"
+title: "APA: Automatic Praat Analyzer"
+version: 1.0.0
+date-released: 2023-02-01
+url: "https://github.com/IParraMartin/APA-Automatic-Praat-Analyzer"
