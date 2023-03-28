@@ -3,6 +3,7 @@ message: "If you use this code, please cite it as below."
 authors: 
 - family-names: "Parra"
   given-names: "Iñigo"
+  orcid: "https://orcid.org/0009-0009-8686-9666"
 title: "APA: Automatic Praat Analyzer"
 version: 1.0.0
 date-released: 2023-02-01
